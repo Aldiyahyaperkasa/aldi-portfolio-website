@@ -15,7 +15,7 @@ export default function About() {
             <div className="rounded-[28px] overflow-hidden aspect-[3/4] bg-teal-pale relative shadow-[0_8px_40px_rgba(11,85,99,0.18)] group">
               <div className="w-full h-full flex flex-col items-center justify-center gap-[14px] text-muted-2 bg-[linear-gradient(140deg,var(--color-teal-pale)_0%,var(--color-teal-mid)_100%)]">
                 <img 
-                  src="/assets/gambar/pass-foto.jpg" 
+                  src="assets/gambar/pass-foto.jpg" 
                   alt="Aldi Yahya Perkasa" 
                   className="w-full h-full object-cover grayscale-[0.2] transition-transform duration-700 group-hover:scale-105"
                   referrerPolicy="no-referrer"
